@@ -5,3 +5,5 @@ console.log("Hello Git");
 
 // git config --global user.email "email@email.com"
 // git config --global user.name "name"
+
+// git commit -m "message"  - "-m=message"
