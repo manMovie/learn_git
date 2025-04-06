@@ -9,3 +9,6 @@ console.log("Hello Git");
 // git commit -m "message"  - "-m=message"
 
 // git log - for list all commits make to this project
+
+// git branch to list all the branch / git branch <name> for creating a new branch
+// git checkout <branch name> for chnage branch
