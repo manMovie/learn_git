@@ -7,3 +7,5 @@ console.log("Hello Git");
 // git config --global user.name "name"
 
 // git commit -m "message"  - "-m=message"
+
+// git log - for list all commits make to this project
